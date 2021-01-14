@@ -1,4 +1,5 @@
 apple
 apricot
 grape
-еtangerine
+tangerine
+banana 
