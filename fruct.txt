@@ -4,4 +4,6 @@ grape
 tangerine
 banana
 orange
-
+еtangerin
+lime
+lemon
